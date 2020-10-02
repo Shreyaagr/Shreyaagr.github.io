@@ -3017,10 +3017,12 @@ input, select, textarea {
 
 		.table-wrapper > table {
 			margin-bottom: 0;
+			
 		}
 
 	table {
 		margin: 2rem 0 2rem 0;
+	  padding-bottom: 0;
 		width: 100%;
 	}
 
@@ -3039,6 +3041,7 @@ input, select, textarea {
 			font-weight: 400;
 			padding: 1rem 0.75rem 0.75rem 0.75rem;
 			text-align: left;
+			border-top: solid 2px;
 		}
 
 		table thead {
