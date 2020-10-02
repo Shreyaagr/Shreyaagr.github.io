@@ -2871,6 +2871,7 @@ input, select, textarea {
 			-ms-flex-direction: column;
 			flex-direction: column;
 			margin-left: 0;
+			margin-bottom: 0;
 		}
 
 			ul.actions.stacked li {
