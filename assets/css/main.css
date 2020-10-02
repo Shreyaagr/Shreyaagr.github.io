@@ -3041,12 +3041,14 @@ input, select, textarea {
 			font-weight: 400;
 			padding: 1rem 0.75rem 0.75rem 0.75rem;
 			text-align: left;
-			border-top: solid 2px;
+			border-top: solid 1px;
+			border-color: rgba(0, 0, 0, 0.2);
 		}
 
 		table thead {
 			border-bottom: solid 2px;
-			border-top: solid 2px;
+			border-top: solid 1px;
+			border-color: rgba(0, 0, 0, 0.2);
 		}
 
 		table tfoot {
