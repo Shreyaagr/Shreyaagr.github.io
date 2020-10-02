@@ -3043,6 +3043,7 @@ input, select, textarea {
 
 		table thead {
 			border-bottom: solid 2px;
+			border-top: solid 2px;
 		}
 
 		table tfoot {
