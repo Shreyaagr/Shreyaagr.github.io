@@ -3037,7 +3037,7 @@ input, select, textarea {
 		table th {
 			font-size: 1.0rem;
 			font-weight: 400;
-			padding: 0 0.75rem 0.75rem 0.75rem;
+			padding: 1rem 0.75rem 0.75rem 0.75rem;
 			text-align: left;
 		}
 
